@@ -1,0 +1,15 @@
+{
+  "id": 2,
+  "name": "Ramesh Kumar",
+  "username": "ramesh",
+  "email": "ramesh@nic.in",
+  "address": {
+    "street": "Sector 21",
+    "city": "Panchkula",
+    "zipcode": "134011", 
+  },
+  "phone": "9958564662",
+  "company": {
+    "name": "Government of India",
+  }
+}
